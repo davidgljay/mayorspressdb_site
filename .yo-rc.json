@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "mayorsbuzz",
+    "style": "scss",
+    "postcss": false
+  }
+}
