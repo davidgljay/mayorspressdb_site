@@ -1,0 +1,8 @@
+{
+  "name": "mayors.buzz",
+  "version": "0.0.1",
+  "dependencies": {
+    "react-bootstrap": "~0.28.2"
+  },
+  "private": true
+}

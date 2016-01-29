@@ -2,7 +2,7 @@
 
 import React from 'react';
 
-require('styles//Marker.scss');
+require('styles/Marker.scss');
 
 class MarkerComponent extends React.Component {
   render() {

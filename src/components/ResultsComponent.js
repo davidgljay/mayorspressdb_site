@@ -2,7 +2,7 @@
 
 import React from 'react';
 
-require('styles//Results.scss');
+require('styles/Results.scss');
 
 class ResultsComponent extends React.Component {
   render() {

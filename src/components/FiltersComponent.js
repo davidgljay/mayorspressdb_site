@@ -2,7 +2,7 @@
 
 import React from 'react';
 
-require('styles//Filters.scss');
+require('styles/Filters.scss');
 
 class FiltersComponent extends React.Component {
   render() {

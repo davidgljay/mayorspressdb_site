@@ -2,7 +2,7 @@
 
 import React from 'react';
 
-require('styles//Bubblemap.scss');
+require('styles/Bubblemap.scss');
 
 class BubblemapComponent extends React.Component {
   render() {
